@@ -39,4 +39,4 @@ Displays a table summarizing the user's past transactions (all buys and sells). 
 
 ---
 
-Please note that the **Login** and **Logout** functions and all functions in **helpers.py** came with the assignment starter code and are not my work. Starter code.
+Please note that the **Login** and **Logout** functions and all functions in **helpers.py** came with the assignment starter code and are not my work.
